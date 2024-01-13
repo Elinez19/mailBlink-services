@@ -173,6 +173,9 @@ export const aboutData = [
   {
     id: 1,
     image: "/assets/images/location-img-1.png",
+    callIcon: "/assets/icon/call.png",
+    locationIcon: "/assets/icons/location.png",
+    measageIcon: "/assets/icons/message.png",
     title: "Head Office and USA West Coast",
     phone: "+1 (415) 322 2479",
     contact: "contact@opmantek.com",
@@ -182,6 +185,9 @@ export const aboutData = [
   {
     id: 2,
     image: "/assets/images/location-img-1.png",
+    callIcon: "/assets/icon/call.png",
+    locationIcon: "/assets/icons/location.png",
+    measageIcon: "/assets/icons/message.png",
     title: "Head Office and USA West Coast",
     phone: "+1 (415) 322 2479",
     contact: "contact@opmantek.com",
@@ -191,6 +197,9 @@ export const aboutData = [
   {
     id: 3,
     image: "/assets/images/location-img-1.png",
+    callIcon: "/assets/icon/call.png",
+    locationIcon: "/assets/icons/location.png",
+    measageIcon: "/assets/icons/message.png",
     title: "Head Office and USA West Coast",
     phone: "+1 (415) 322 2479",
     contact: "contact@opmantek.com",
@@ -200,6 +209,9 @@ export const aboutData = [
   {
     id: 4,
     image: "/assets/images/location-img-1.png",
+    callIcon: "/assets/icon/call.png",
+    locationIcon: "/assets/icons/location.png",
+    measageIcon: "/assets/icons/message.png",
     title: "Head Office and USA West Coast",
     phone: "+1 (415) 322 2479",
     contact: "contact@opmantek.com",

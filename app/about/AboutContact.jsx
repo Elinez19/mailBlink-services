@@ -27,7 +27,7 @@ const AboutContact = () => {
           className="absolute top-[200]  right-[45%] w-46"
         />
         <div className=" rounded-full bg-blue-950 opacity-70 md:w-[11.6rem] md:h-[11.6rem] w-[9.6rem] h-[9.6rem] relative -left-[27rem] "></div>
-        <div class="w-[186px] relative h-[186px] opacity-30 bg-blue-600 bg-opacity-90 rounded-[100px] left-40"></div>
+        <div class="w-[186px] relative h-[186px] opacity-30 bg-blue-600 bg-opacity-90 rounded-[100px] left-3S0"></div>
       </div>
     </section>
   );
